@@ -1,0 +1,183 @@
+<Mammals>
+  <Bears>
+    <Polar>
+      <Paulie age= "70" height= "7.5'" weight= "300"/>
+    </Polar>
+    <Black>
+      <Stanky age= "40" height= "8.5'" weight= "250"/>
+    </Black>
+    <Grizzly>
+      <Harry age= "25" height= "10'" weight= "400"/>
+    </Grizzly>
+  </Bears>
+  <Birds>
+    <Cardinal>
+      <Redbird age= "15" height= "1'" weight= "10"/>
+    </Cardinal>
+    <Goldfinch>
+      <Goldilochs age = "7" height= "0.25'" weight= "3"/>
+    </Goldfinch>
+    <Penguin>
+      <Penguino age "23" height= "2.5'" weight= "30"/>
+    </Penguin>
+  </Birds>
+  <Apes>
+    <Chimpanzee>
+      <Champ age= "40" height= "2'" weight= "15"/>
+    </Chimpanzee>
+    <Gorilla>
+      <Gloria age= "30" height= "5.5''" weight= "500"/>
+    </Gorilla>
+    <Human>
+      <Gargano age= "15" height= "5.5'" weight= "120"/>
+    </Human>
+  </Apes>
+  <Squirrels>
+    <Chipmunk>
+      <Chip age= "5" height= "0.5'" weight= "15"/>
+    </Chimpmunk>
+    <Prairiedog>
+      <Divy age= "15" height= "1'" weight= "20"/>
+    </Prairiedog>
+    <Flyingsquirrel>
+      <Flewy age= "25" height= "1.5'" weight= "5"/>
+    </Flyingsquirrel>
+  </Squirrels>
+  <Horses>
+    <Belgian>
+      <Belgy age= "50" height= "6.5'" weight= "300"/>
+    </Belgy>
+    <Arabian>
+      <Arby age= "65" height= "7'" weight= "350"/>
+    </Arabian>
+    <Percheron>
+      <Pechy age= "85" height= "5.5'" weight= "250"/>
+    </Percheron>
+  </Horses>
+</Mammals>
+<Fish>
+  <Bass>
+    <White>
+      <Blanky age= "35" height= "4.5'" weight= "20"/>
+    </White>
+    <Largemouth>
+      <Largy age= "55" height= "2'" weight= "15"/>
+    </Largemouth>
+    <Striped>
+      <Strippy age= "15" height= "1.5'" weight= "10"/>
+    </Striped>
+  </Bass>
+  <Catfish>
+    <Cory>
+      <Cory age= "3" height= "0.5'" weight= "5"/>
+    </Cory>
+    <Dwarfsucker>
+      <Midget age= "12" height= "0.01'" weight= "2"/>
+    </Dwarfuscker>
+    <Airbreathing>
+      <Airon age= "20" height= "2'" weight= "20"/>
+    </Airbreathing>
+  </Catfish>
+  <Carp>
+    <Common>
+      <Average age= "40" height= "3'" weight= "20"/>
+    </Common>
+    <Crucian>
+      <Crucy age= "30" height= "1.5'" weight= "15"/>
+    </Crucian>
+    <Bighead>
+      <Biggy age= "15" height= "2.5'" weight= "30"/>
+    </Bighead>
+  </Carp>
+  <Angelfish>
+    <Freshwater>
+      <Freshy age= "5" height= "0.5'" weight= "5"/>
+    </Freshwater>
+    <Leopoldi>
+      <Leo age= "20" height= "2'" weight= "15"/>
+    </Leopoldi>
+    <Altum>
+      <Autumn age= "18" height= "1.5'" weight= "10"/>
+    </Altum>
+  </Angelfish>
+  <Pike>
+    <Northern>
+      <Nordy age= "35" height= "1'' weight= "15"/>
+    </Northern>
+    <Muskellunge>
+      <Musky age= "60" height= "2'" weight= "20"/>
+    </Muskellunge>
+    <Chain>
+      <Chainy age= "35" height= "1.5'" weight= "20"/>
+    </Chain>
+  </Pike>
+  <Salmon>
+    <Atlantic>
+      <Adam age= "15" height= "1.5'" weight= "15"/>
+    </Atlantic>
+    <Chinook>
+      <Chimminy age= "25" height= "2'" weight= "25"/>
+    </Chinook>
+    <Pink>
+      <Pinky age= "10" height= "1'" weight= "5"/>
+    </Pink>
+  </Salmon>
+</Fish>
+<Reptiles>
+  <Snakes>
+    <Viper>
+      <Vippy age= "60" height= "1.5'" weight= "20"/>
+    </Viper>
+    <Cobra>
+      <Coby age= "30" height= "1'" weight= "15"/>
+    </Cobra>
+    <Python>
+      <Pythy age= "45" height= "2" weight= 35"/>
+    </Python>
+  </Snakes>
+  <Turtles>
+    <Snapping>
+      <Snappy age= "55" height= "3" weight= "60"/>
+    </Snapping>
+    <Sea>
+      <Sean age= "12" height= "4.5'" weight= "100"/>
+    </Sea>
+    <Box>
+      <Boxy age= "6" height= "2" weight= "1"/>
+    </Box>
+  </Turtles>
+  <Dinosaurs>
+    <Bronosourous>
+      <Bruno age= "300" height= "100" weight= "5000"/>
+    </Bronosourous>
+    <Tyradactle>
+      <Ty age= "15" height= "10" weight= "100"/>
+    </Tyradactle>
+    <T-Rex>
+      <Rex age= "25" height= "150" weight= "10000"/>
+    </T-Rex>
+  </Dinosaurs>
+  <Crocodiles>
+    <Nile>
+      <Nile age= "30" height= "2.5" weight= "250"/>
+    </Nile>
+    <Saltwater>
+      <Salty age= "40" height= "2" weight= "300"/>
+    </Saltwater>
+    <Freshwater>
+      <Freshy age= "25" height= "1.5" weight= "200"/>
+    </Freshwater>
+  </Crocodiles>
+  <Chameleons>
+    <Red>
+      <Redy age= "15" height= "0.5" weight= "15"/>
+    </Red>
+    <Orange>
+      <Orangey age= "25" height= "1" weight= "20"/>
+    </Orange>
+    <Green>
+      </Greeny age "20" height= "1.5" weight= "25"/>
+    </Green>
+  </Chameleons>
+</Reptiles>
+    
